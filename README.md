@@ -1,0 +1,2 @@
+- f99cf6432fce1def1321fcdcf252e77501827bd7 is a result of running `npx @react-native-community/cli init TestApp`
+- cff976dd8d7de23a3465017a589a88cfe06e9d53 is the result of installing pods, this shouldn't happen
